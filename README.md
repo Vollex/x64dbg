@@ -1,5 +1,5 @@
 # x64dbg
-# Keep in mind this is a FORK from [x64dbg]("https://x64dbg.com/#start")
+# Keep in mind this is a FORK from [x64dbg](https://x64dbg.com/#start)
 <img width="100" src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png"/>
 
 [![BountySource](https://www.bountysource.com/badge/team?team_id=18188&style=raised)](https://www.bountysource.com/teams/x64dbg?utm_source=x64dbg&utm_medium=shield&utm_campaign=raised) [![Build status](https://ci.appveyor.com/api/projects/status/h1j489qa1mx67e0h?svg=true)](https://ci.appveyor.com/project/mrexodia/x64dbg) [![Open Source Helpers](https://www.codetriage.com/x64dbg/x64dbg/badges/users.svg)](https://www.codetriage.com/x64dbg/x64dbg) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/x64dbg/localized.svg)](http://translate.x64dbg.com)
